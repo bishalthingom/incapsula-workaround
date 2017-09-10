@@ -1,4 +1,3 @@
-# incapsula-workaround
 Incapsula Workaround
 =============================================================================================================
 Use this to scrape data off websites using Incapsula.
